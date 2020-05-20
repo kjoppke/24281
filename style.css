@@ -1,0 +1,59 @@
+.out-square {
+    width: 650px;
+}
+
+.inner {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    border: 0,5px solid white;
+    display: inline-block;
+    position: relative;
+}
+
+.circle {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-pink {
+    background-color: rgb(200, 86, 124);
+}
+
+.bg-blue {
+    background-color: rgb(42, 42, 163);
+}
+
+.bg-grey {
+    background-color: rgb(77, 74, 74);
+}
+
+.bg-green {
+    background-color: rgb(44, 165, 29);
+}
+
+.bg-pur {
+    background-color: purple;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.bg-black {
+    background-color: black;
+}
